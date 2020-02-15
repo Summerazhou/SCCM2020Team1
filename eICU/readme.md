@@ -8,7 +8,7 @@ Donna Lee Armaignac
 J. Steven Hata
 Steve Kelleher
 Sicheng Hao
-Qiheng Zhao
+Qiheng Zhou
 Kirby Gong
 Jamie Lynn Sturgill
 
@@ -33,6 +33,9 @@ From there, GCSfeature.py,VasopressorsFeature.py,TroponinFeature.py,and Splittin
 Sicheng and Qiheng wrote the analysis code. 
 
 R was used to compare outcomes from APACHE like mortality, across patient groups with differing levels of hemoglobin and differing amounts of blood administrations. Outcomes were adjusted for vasopressor use and APACHE scores. 
+
+The demographics, clinical characteristics (e.g., blood transfusion) and hospital/ICU mortality results stratified by diseases (i.e., TBI, stroke, post surgery) and hemoglobin level (mild/high) are reported and the codes are recorded in datathon_demo.r
+The relationship between blood transfusion and hospital/ICU mortality, stratified by diseases and hemoglobin level are also assessed and p values are reported.
 
 
 MIOutcome.py and AKIOutcome.py was used to generate features for those complications, given time constraints were not used. 
